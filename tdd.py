@@ -29,4 +29,3 @@ def statsSecuence(numberList):
     respuesta.append(sum/cantidad)
     return respuesta
 
-print(statsSecuence(""))
