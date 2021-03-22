@@ -20,4 +20,4 @@ def statsSecuence(numberList):
     respuesta.append(sum/cantidad)
     return respuesta
 
-print(statsSecuence("1 35 34 1 23 41 51 32"))
+
